@@ -1,8 +1,8 @@
 Flask
 Gunicorn
-cv2
-io
+opencv-python
+python-IO
 requests
-json
+json5
 PIL
 numpy
