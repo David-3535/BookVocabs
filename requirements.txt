@@ -1,2 +1,8 @@
 Flask
 Gunicorn
+cv2
+io
+requests
+json
+PIL
+numpy
