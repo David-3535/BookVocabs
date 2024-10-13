@@ -4,5 +4,5 @@ opencv-python
 python-IO
 requests
 json5
-PIL
+pillow
 numpy
